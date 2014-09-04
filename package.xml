@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>test</name>
+  <name>ann2</name>
   <version>0.0.0</version>
   <description>
 ANN is a library written in C++, which supports data structures and algorithms for both exact and approximate nearest neighbor searching in arbitrarily high dimensions.
